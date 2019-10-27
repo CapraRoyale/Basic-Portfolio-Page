@@ -1,0 +1,30 @@
+{
+  "name": "basic-portfolio-page",
+  "version": "1.0.0",
+  "description": "Basic Portfolio Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapraRoyale/Basic-Portfolio-Page.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "Material",
+    "Design",
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "author": "Siege Lehman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CapraRoyale/Basic-Portfolio-Page/issues"
+  },
+  "homepage": "https://github.com/CapraRoyale/Basic-Portfolio-Page#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
